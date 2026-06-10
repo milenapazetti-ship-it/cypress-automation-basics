@@ -1,0 +1,24 @@
+{
+  "name": "primeiros-passos-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milenapazetti-ship-it/primeiros-passos-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/milenapazetti-ship-it/primeiros-passos-cypress/issues"
+  },
+  "homepage": "https://github.com/milenapazetti-ship-it/primeiros-passos-cypress#readme",
+  "devDependencies": {
+    "cypress": "^15.17.0"
+  }
+}
