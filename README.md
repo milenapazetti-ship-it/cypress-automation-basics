@@ -1,3 +1,4 @@
+
 # My Cypress Automation
 
 This project uses Cypress to automate tests for the OrangeHRM demo application. It follows the Page Object Model pattern and covers login and user information update flows.
@@ -19,3 +20,4 @@ npx cypress open
 # Run the automation by command line
 npx cypress run
 ```
+<img width="800" height="423" alt="Screenshot Cypress test" src="https://github.com/user-attachments/assets/4fb8235a-bed8-4265-8c25-ba50623c8cf7" />
